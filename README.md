@@ -1,27 +1,83 @@
-## Hello, World! 👋
+# hello, world! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  Meu nome é **Lais**, tenho 28 anos, e minha stack é **Ruby on Rails**.<br>
+  Acabo de concluir o programa **TreinaDev12** da CampusCode e busco minha primeira experiência como desenvolvedora.
 
-<p align="left"> 
-  Meu nome é Lais, tenho 28 anos, e minha stack é <strong>Ruby on Rails</strong>.<br>
-  Acabo de concluir o programa <strong>TreinaDev12</strong> da CampusCode e busco minha primeira experiência como desenvolvedora.
-</p>
+## 💻 habilidades
 
-<p align="left">
-  🦄 Tecnologias:
-</p>
+<details>
+  <summary> Metodologias de Desenvolvimento</summary><br>
 
-<p align="left">
-  💼 Habilidades:
-</p>
+  - SCRUM
+  - Extreme Programming
 
-<p align="left">
-  💌 Entre em contato para saber mais: ⤵️
-</p>
+  > #### Conceitos
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-E4E4E4?style=flat&labelColor=E4E4E4&logo=gmail&logoColor=red&link=laisdev25@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lais-santos-almeida/" alt="LinkedIn"/></a>
-</p>
+  - Lógica de Programação
+  - Orientação a Objetos
+  - Boas Práticas
+
+  > #### Práticas
+
+  - Desenvolvimento Orientado a Testes (TDD)
+  - Programação Pareada
+  - Padronização de Código
+  - Code Reviews
+
+</details>
+
+<details>
+  <summary> Linguagens </summary><br>
+
+  - Ruby
+  - JavaScript
+  - Java
+  - C/C++
+  - PHP
+
+  > #### Back-End
+  - Ruby on Rails
+  - API RESTs
+
+  > #### Front-End
+  - HTML5
+  - CSS
+  - Bootstrap
+  - Vue.js
+
+  > #### Banco de Dados
+  - SQL
+  - SQLite3
+
+  > #### Ferramentas de Testes
+  - RSpec
+  - Capybara
+
+</details>
+
+
+<details>
+  <summary> Outras Ferramentas</summary><br>
+
+  - Rubocop
+  - WordPress
+  - Figma
+
+  > #### Sistemas Operacionais
+  - Ubuntu
+  - Windows
+  - WSL2
+
+  > #### Versionamento de Código
+  - Git
+  - GitHub
+  - GitHub Actions
+
+</details>
+
+## 💬 contato
+
+- linkedin
+- email
+- curriculo
+- whatsapp
