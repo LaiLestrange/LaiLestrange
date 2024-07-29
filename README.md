@@ -1,7 +1,6 @@
 # hello, world! 👋
-<img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/27514762?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="lais almeida" align="right">
 
-
+<img src="assets/illustration.png" width=300px max-width=300px min-width=300px alt="lais almeida" align="right">
 
   Meu nome é **Lais**, tenho 28 anos, e minha stack é **Ruby on Rails**.<br>
   Acabo de concluir o programa **TreinaDev12** da CampusCode e busco minha primeira experiência como desenvolvedora.
