@@ -48,6 +48,7 @@
   > #### Banco de Dados
   > ![SQL](https://img.shields.io/badge/SQL-ecc694?style=for-the-badge&logo=sql)
   ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
   > #### Ferramentas de Testes
   > ![RSpec](https://img.shields.io/badge/RSPEC-fd405f?style=for-the-badge&logo=rspec)
@@ -69,6 +70,10 @@
   > ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![WSL2](https://img.shields.io/badge/wsl2-e4e4e4?style=for-the-badge&logo=wsl2)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+  > #### Containers
+  >![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
   > #### Versionamento de Código
   >![Git](https://img.shields.io/badge/git-ec3b13?style=for-the-badge&logo=git&logoColor=white)
