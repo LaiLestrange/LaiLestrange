@@ -1,5 +1,5 @@
 # Olá, Mundo! 👋
-[![en](https://img.shields.io/badge/lang-en-black?style=for-the-badge&logo=br)]()
+[![en](https://img.shields.io/badge/lang-en-black?style=for-the-badge&logo=br)](https://github.com/LaiLestrange/LaiLestrange/blob/main/README.md)
 <img src="assets/illustration.png" width=300px max-width=300px min-width=300px alt="lais almeida" align="right">
 
   Meu nome é **Lais**, tenho 28 anos, e minha stack é **Ruby on Rails**.<br>

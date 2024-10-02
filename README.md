@@ -1,5 +1,5 @@
 # Hello, World! 👋
-[![ptbr](https://img.shields.io/badge/lang-ptbr-black?style=for-the-badge&logo=br)]()
+[![ptbr](https://img.shields.io/badge/lang-ptbr-black?style=for-the-badge&logo=br)](https://github.com/LaiLestrange/LaiLestrange/blob/main/README.pt-br.md)
 <img src="assets/illustration.png" width=300px max-width=300px min-width=300px alt="lais almeida" align="right">
 
   My name is **Lais**, I am 28 years old, and my stack is **Ruby on Rails**.<br>
