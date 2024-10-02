@@ -87,4 +87,4 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laisdev25@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/77991100970)
 [![bluesky](https://img.shields.io/badge/lvxs-blue?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lvxs.bsky.social)
-[![curriculo](https://img.shields.io/badge/resume-FF0080?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/LaiLestrange/LaiLestrange/tree/main/resumes)
+[![curriculo](https://img.shields.io/badge/resume-FF0080?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/LaiLestrange/LaiLestrange/blob/main/resumes/Curriculo.md)
