@@ -1,34 +1,33 @@
-# Hello, World! 👋
-[![ptbr](https://img.shields.io/badge/lang-ptbr-black?style=for-the-badge&logo=br)]()
+# Olá, Mundo! 👋
+[![en](https://img.shields.io/badge/lang-en-black?style=for-the-badge&logo=br)]()
 <img src="assets/illustration.png" width=300px max-width=300px min-width=300px alt="lais almeida" align="right">
 
-  My name is **Lais**, I am 28 years old, and my stack is **Ruby on Rails**.<br>
-  I have just completed the **TreinaDev12** program from CampusCode and I am seeking my first experience as a developer.
+  Meu nome é **Lais**, tenho 28 anos, e minha stack é **Ruby on Rails**.<br>
+  Acabo de concluir o programa **TreinaDev12** da CampusCode e busco minha primeira experiência como desenvolvedora.
 
-### 💻 Skills
+### 💻 Habilidades
 
 <details>
-  <summary> Development Methodologies </summary><br>
+  <summary> Metodologias de Desenvolvimento </summary><br>
 
   - SCRUM
   - Extreme Programming
 
-  > #### Concepts
-  > - Programming Logic
-  > - Object-Oriented Programming
-  > - Best Practices
+  > #### Conceitos
+  > - Lógica de Programação
+  > - Orientação a Objetos
+  > - Boas Práticas
 
-  > #### Practices
-  > - Test-Driven Development (TDD)
-  > - Pair Programming
-  > - Code Standardization
+  > #### Práticas
+  > - Desenvolvimento Orientado a Testes (TDD)
+  > - Programação Pareada
+  > - Padronização de Código
   > - Code Reviews
-  > - CI/CD
 
 </details>
 
 <details>
-  <summary> Languages </summary><br>
+  <summary> Linguagens </summary><br>
 
   ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -46,12 +45,12 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-  > #### Databases
+  > #### Banco de Dados
   > ![SQL](https://img.shields.io/badge/SQL-ecc694?style=for-the-badge&logo=sql)
   ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  > #### Testing tools
+  > #### Ferramentas de Testes
   > ![RSpec](https://img.shields.io/badge/RSPEC-fd405f?style=for-the-badge&logo=rspec)
   ![Capybara](https://img.shields.io/badge/Capybara-68015e?style=for-the-badge&logo=capybara)
 
@@ -59,7 +58,7 @@
 
 
 <details>
-  <summary> Other Tools</summary><br>
+  <summary> Outras Ferramentas</summary><br>
 
   ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Rubocop](https://img.shields.io/badge/Rubocop-000?style=for-the-badge&logo=rubocop)
@@ -67,7 +66,7 @@
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-  > #### Operating Systems
+  > #### Sistemas Operacionais
   > ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![WSL2](https://img.shields.io/badge/wsl2-e4e4e4?style=for-the-badge&logo=wsl2)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -75,17 +74,17 @@
   > #### Containers
   >![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-  > #### Version Control
+  > #### Versionamento de Código
   >![Git](https://img.shields.io/badge/git-ec3b13?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github_actions-776bd8?style=for-the-badge&logo=github&logoColor=white)
 
 </details>
 
-### 💬 Contact
+### 💬 Contato
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lais-santos-almeida/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laisdev25@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/77991100970)
 [![bluesky](https://img.shields.io/badge/lvxs-blue?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lvxs.bsky.social)
-[![resume](https://img.shields.io/badge/resume-FF0080?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/LaiLestrange/LaiLestrange/tree/main/resumes)
+[![curriculo](https://img.shields.io/badge/resume-FF0080?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/LaiLestrange/LaiLestrange/tree/main/resumes)
