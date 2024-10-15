@@ -6,7 +6,7 @@
 
 📍 brazil
 
-📞 +55 (77) 9 9110-070
+📞 +55 (77) 9 9110-0970
 
 ✉️ laisdev25@gmail.com
 
@@ -20,7 +20,7 @@ Web Developer with a solid background in Ruby on Rails. I am fluent in English a
 
 ## ✨ Skills
 
-### Tech
+- ### Tech
 
 **Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
 
@@ -28,13 +28,13 @@ JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
 
 SQL, SQLite, PostgreSQL
 
-### Languages
+- ### Languages
 
 🇧🇷 Brazillian Portuguese: fluent, native
 
 🇺🇸 English: fluent, C2
 
-### Development Methodologies
+- ### Development Methodologies
 
 SCRUM, Extreme Programming,
 
@@ -44,9 +44,14 @@ Test Driven Development (TDD)
 
 ## ✨ Courses and Certifications
 
-TreinaDev 12 - Campus Code - apr/24 a aug/24
+### TreinaDev 12 - Campus Code - abr/24 a ago/24
 
-Rebase Labs - Rebase - aug/24
+> An intensive Web Development training program focused on Ruby on Rails, Vue.js, API development and integration, along with methodologies like TDD and version control. In a real-world team simulation, I applied my prior knowledge while mastering new techniques such as Pair Programming, SCRUM, Pull Requests, and Code Reviews to build distinct but interconnected applications via APIs. The training was led by a highly skilled and market-aware team, who provided regular feedback not only on the code itself but also on industry best practices, ensuring a well-rounded development experience.
+
+### Rebase Labs - Rebase - ago/24
+
+> A hands-on learning lab focused on technologies like Docker and PostgreSQL, where I reinforced my Ruby skills while also gaining experience with the Sinatra framework.
+
 
 ## ✨ Professional Experience
 

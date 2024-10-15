@@ -4,7 +4,7 @@
 
 ### Contato
 
-📞 +55 (77) 9 9110-070
+📞 +55 (77) 9 9110-0970
 
 ✉️ laisdev25@gmail.com
 
@@ -20,7 +20,7 @@ Desenvolvedora Web, com sólida formação em Ruby on Rails pelo programa Treina
 
 ## ✨ Habilidades
 
-### Tecnologias conhecidas
+- ### Tecnologias conhecidas
 
 **Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
 
@@ -28,13 +28,13 @@ JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
 
 SQL, SQLite, PostgreSQL
 
-### Idiomas conhecidos
+- ### Idiomas conhecidos
 
 🇧🇷 Português Brasileiro: fluente, nativa
 
 🇺🇸 Inglês: fluente, C2
 
-### Metodologias de Desenvolvimento
+- ### Metodologias de Desenvolvimento
 
 SCRUM, Extreme Programming
 
@@ -44,9 +44,14 @@ Desenvolvimento Orientado a Testes (TDD)
 
 ## ✨ Cursos e Certificados
 
-TreinaDev 12 - Campus Code - abr/24 a ago/24
+### TreinaDev 12 - Campus Code - abr/24 a ago/24
 
-Rebase Labs - Rebase - ago/24
+> Um programa intensivo de treinamento em Desenvolvimento Web focado em Ruby on Rails, Vue.js, desenvolvimento e integração de APIs, juntamente com metodologias como TDD e controle de versão. Em uma simulação de ambiente de equipe real, apliquei meus conhecimentos prévios enquanto dominava novas técnicas, como Pair Programming, SCRUM, Pull Requests e Code Reviews, para construir aplicações distintas, mas interconectadas via suas APIs. O treinamento foi conduzido por uma equipe altamente qualificada e alinhada ao mercado, que forneceu feedback regular, não apenas sobre o código, mas também sobre as melhores práticas da indústria, garantindo uma experiência de desenvolvimento completa.
+
+### Rebase Labs - Rebase - ago/24
+
+> Um laboratório prático de aprendizado focado em tecnologias como Docker e PostgreSQL, onde reforcei minhas habilidades em Ruby enquanto também adquiri experiência com o framework Sinatra.
+
 
 ## ✨ Experiência Profissional
 
