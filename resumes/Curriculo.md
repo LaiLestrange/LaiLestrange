@@ -1,4 +1,6 @@
 # Lais Almeida
+[![Download PDF](https://img.shields.io/badge/download-pdf-black?style=for-the-badge)](https://github.com/LaiLestrange/LaiLestrange/blob/main/resumes/%5BPT-BR%5D%20Lais%20Almeida%20-%20Desenvolvedora%20Ruby%20on%20Rails.pdf)
+[![EN](https://img.shields.io/badge/lang-EN-red?style=for-the-badge)](https://github.com/LaiLestrange/LaiLestrange/blob/main/resumes/Resume.md)
 
 ## Desenvolvedora Ruby on Rails
 
