@@ -24,25 +24,25 @@ Desenvolvedora Web, com sólida formação em Ruby on Rails pelo programa Treina
 
 ### _Tecnologias conhecidas_
 
-&emsp; **Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
-
-&emsp; JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
-
-&emsp; SQL, SQLite, PostgreSQL
+> **Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
+>
+> JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
+>
+> SQL, SQLite, PostgreSQL
 
 ### _Idiomas conhecidos_
 
-&emsp; 🇧🇷 Português Brasileiro: fluente, nativa
-
-&emsp; 🇺🇸 Inglês: fluente, C2
+> 🇧🇷 Português Brasileiro: fluente, nativa
+>
+> 🇺🇸 Inglês: fluente, C2
 
 ### _Metodologias de Desenvolvimento_
 
-&emsp; SCRUM, Extreme Programming
-
-&emsp; Programação Pareada, Code Reviews, CI/CD
-
-&emsp; Desenvolvimento Orientado a Testes (TDD)
+> SCRUM, Extreme Programming
+>
+> Programação Pareada, Code Reviews, CI/CD
+>
+> Desenvolvimento Orientado a Testes (TDD)
 
 ## ✨ Cursos e Certificados
 

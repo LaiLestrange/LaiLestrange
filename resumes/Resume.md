@@ -24,25 +24,25 @@ Web Developer with a solid background in Ruby on Rails. I am fluent in English a
 
 ### _Known Tech_
 
-&emsp; **Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
-
-&emsp; JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
-
-&emsp; SQL, SQLite, PostgreSQL
+> **Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
+>
+> JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
+>
+> SQL, SQLite, PostgreSQL
 
 ### _Known Languages_
 
-&emsp; 🇧🇷 Brazillian Portuguese: fluent, native
-
-&emsp; 🇺🇸 English: fluent, C2
+> 🇧🇷 Brazillian Portuguese: fluent, native
+>
+> 🇺🇸 English: fluent, C2
 
 ### _Development Methodologies_
 
-&emsp; SCRUM, Extreme Programming,
-
-&emsp; Pair Programming, Code Reviews, CI/CD
-
-&emsp; Test Driven Development (TDD)
+> SCRUM, Extreme Programming,
+>
+> Pair Programming, Code Reviews, CI/CD
+>
+> Test Driven Development (TDD)
 
 ## ✨ Courses and Certifications
 
