@@ -20,27 +20,27 @@ Desenvolvedora Web, com sólida formação em Ruby on Rails pelo programa Treina
 
 ## ✨ Habilidades
 
-- ### Tecnologias conhecidas
+### _Tecnologias conhecidas_
 
-**Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
+&emsp; **Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
 
-JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
+&emsp; JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
 
-SQL, SQLite, PostgreSQL
+&emsp; SQL, SQLite, PostgreSQL
 
-- ### Idiomas conhecidos
+### _Idiomas conhecidos_
 
-🇧🇷 Português Brasileiro: fluente, nativa
+&emsp; 🇧🇷 Português Brasileiro: fluente, nativa
 
-🇺🇸 Inglês: fluente, C2
+&emsp; 🇺🇸 Inglês: fluente, C2
 
-- ### Metodologias de Desenvolvimento
+### _Metodologias de Desenvolvimento_
 
-SCRUM, Extreme Programming
+&emsp; SCRUM, Extreme Programming
 
-Programação Pareada, Code Reviews, CI/CD
+&emsp; Programação Pareada, Code Reviews, CI/CD
 
-Desenvolvimento Orientado a Testes (TDD)
+&emsp; Desenvolvimento Orientado a Testes (TDD)
 
 ## ✨ Cursos e Certificados
 
@@ -56,18 +56,18 @@ Desenvolvimento Orientado a Testes (TDD)
 ## ✨ Experiência Profissional
 
 ### UESB - ASCOM/SURTE (2022-2023)
-#### Técnica de Suporte WEB - jul/22 a out/23
-
+>  _Técnica de Suporte WEB - jul/22 a out/23_
+>
 > Encarregada de dar suporte para a equipe de Jornalismo da instituição com seu uso da plataforma WordPress, utilizando ferramentas como PHP e FileZilla.
 
 ### BYJU’s Future School (2021-2022)
-#### Professora de Programação - out/21 a fev/22
-
+>  _Professora de Programação - out/21 a fev/22_
+>
 > Encarregada de ministrar aulas de JavaScript para crianças de 8 a 12 anos em plataformas online, utilizando ferramentas como Blockly e outros jogos educativos.
 
 ### Grupo Dass (2021)
-#### Estagiária de Suporte e Infraestrutura - abr/21 a out/21
-
+>  _Estagiária de Suporte e Infraestrutura - abr/21 a out/21_
+>
 > Encarregada de auxiliar a equipe com as diversas demandas de uma indústria, como manutenção de equipamentos, suporte ao usuário, administração e distribuição de redes, entre outros.
 
 ## ✨ Experiência Acadêmica

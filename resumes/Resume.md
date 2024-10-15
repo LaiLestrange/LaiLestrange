@@ -20,27 +20,27 @@ Web Developer with a solid background in Ruby on Rails. I am fluent in English a
 
 ## ✨ Skills
 
-- ### Tech
+### _Known Tech_
 
-**Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
+&emsp; **Ruby on Rails**, Git, Docker, Rspec, Capybara, Rubocop
 
-JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
+&emsp; JavaScript, HTML, CSS, Bootstrap, VueJS, Figma,
 
-SQL, SQLite, PostgreSQL
+&emsp; SQL, SQLite, PostgreSQL
 
-- ### Languages
+### _Known Languages_
 
-🇧🇷 Brazillian Portuguese: fluent, native
+&emsp; 🇧🇷 Brazillian Portuguese: fluent, native
 
-🇺🇸 English: fluent, C2
+&emsp; 🇺🇸 English: fluent, C2
 
-- ### Development Methodologies
+### _Development Methodologies_
 
-SCRUM, Extreme Programming,
+&emsp; SCRUM, Extreme Programming,
 
-Pair Programming, Code Reviews, CI/CD
+&emsp; Pair Programming, Code Reviews, CI/CD
 
-Test Driven Development (TDD)
+&emsp; Test Driven Development (TDD)
 
 ## ✨ Courses and Certifications
 
@@ -56,18 +56,18 @@ Test Driven Development (TDD)
 ## ✨ Professional Experience
 
 ### UESB - ASCOM/SURTE (2022-2023)
-#### WEB Support Technician - jul/22 a oct/23
-
+> _WEB Support Technician - jul/22 a oct/23_
+>
 > Responsible for providing support to the institution's Journalism team with their use of the WordPress platform, utilizing tools such as PHP and FileZilla.
 
 ### BYJU’s Future School (2021-2022)
-#### Programming Teacher - oct/21 a feb/22
-
+> _Programming Teacher - oct/21 a feb/22_
+>
 > Responsible for teaching JavaScript classes to children aged 8 to 12 on online platforms, using tools such as Blockly and other educational games.
 
 ### Dass Group (2021)
-#### Support and Infrastructure Intern - apr/21 a oct/21
-
+> _Support and Infrastructure Intern - apr/21 a oct/21_
+>
 > Responsible for assisting the team with various demands of an industry, such as equipment maintenance, user support, network administration and distribution, among others.
 
 ## ✨ Academic Experience
