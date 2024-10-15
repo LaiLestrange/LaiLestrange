@@ -2,7 +2,7 @@
 [![Download PDF](https://img.shields.io/badge/download-pdf-black?style=for-the-badge)](https://github.com/LaiLestrange/LaiLestrange/blob/main/resumes/%5BEN%5D%20Lais%20Almeida%20-%20Ruby%20on%20Rails%20Developer.pdf)
 [![PT_BR](https://img.shields.io/badge/lang-ptbr-green?style=for-the-badge)](https://github.com/LaiLestrange/LaiLestrange/blob/main/resumes/Curriculo.md)
 
-## Ruby on Rails developer
+## Ruby on Rails Developer
 
 ### Contact
 
