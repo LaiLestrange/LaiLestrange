@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-black?style=for-the-badge&logo=br)](https://github.com/LaiLestrange/LaiLestrange/blob/main/README.md)
 <img src="assets/illustration.png" width=300px max-width=300px min-width=300px alt="lais almeida" align="right">
 
-  Meu nome é **Lais**, tenho 28 anos, e minha stack é **Ruby on Rails**.<br>
+  Meu nome é **Lais**, tenho 29 anos, e minha stack é **Ruby on Rails**.<br>
   Acabo de concluir o programa **TreinaDev12** da CampusCode e busco minha primeira experiência como desenvolvedora.
 
 ### 💻 Habilidades
@@ -87,4 +87,4 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laisdev25@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/77991100970)
 [![bluesky](https://img.shields.io/badge/lvxs-blue?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lvxs.bsky.social)
-[![curriculo](https://img.shields.io/badge/resume-FF0080?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/LaiLestrange/LaiLestrange/blob/main/resumes/Curriculo.md)
+[![curriculo](https://img.shields.io/badge/currículo-FF0080?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/LaiLestrange/LaiLestrange/blob/main/resumes/Lais%20Almeida%20-%20dev%20Ruby%20on%20Rails.pdf)
