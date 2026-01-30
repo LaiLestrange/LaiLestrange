@@ -19,7 +19,7 @@ Strong practical experience with REST APIs, webhooks and payment gateway integra
   - **DevOps:** Git, GitHub Actions, CI/CD, Docker
   - **Databases:** PostgreSQL, SQLite
 
-#### 💬 contact
+### 💬 contact
 📍 Brazil | Open to remote opportunities <br>
 🔗 LinkedIn: https://www.linkedin.com/in/lais-santos-almeida/ <br>
 📧 E-mail: laisdev25@gmail.com <br>
