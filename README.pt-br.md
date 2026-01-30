@@ -25,5 +25,5 @@ Atuo na construção e manutenção de APIs REST, webhooks e integrações de ga
 📧 E-mail: laisdev25@gmail.com <br>
 
 <p align="right">
-  <a href="./README.md">🇺🇸 english</a>
+  <a href="./README.md">🇺🇸 inglês</a>
 </p>

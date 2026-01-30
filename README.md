@@ -25,5 +25,5 @@ Strong practical experience with REST APIs, webhooks and payment gateway integra
 📧 E-mail: laisdev25@gmail.com <br>
 
 <p align="right">
-  <a href="./README.pt-BR.md">🇧🇷 portuguese</a>
+  <a href="./README.pt-br.md">🇧🇷 portuguese</a>
 </p>
