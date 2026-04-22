@@ -19,7 +19,7 @@ Atuo na construção e manutenção de APIs REST, webhooks e integrações de ga
 - **DevOps:** Git, GitHub Actions, CI/CD, Docker
 - **Banco de Dados:** PostgreSQL, SQLite
 
-### 💬 contact
+### 💬 contato
 📍 Brasil | Aberta a oportunidades remotas <br>
 🔗 LinkedIn: https://www.linkedin.com/in/lais-santos-almeida/ <br>
 📧 E-mail: laisdev25@gmail.com <br>
